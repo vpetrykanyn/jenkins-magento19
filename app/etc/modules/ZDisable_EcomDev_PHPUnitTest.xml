@@ -1,0 +1,7 @@
+<config>
+   <modules>
+      <EcomDev_PHPUnitTest>
+         <active>false</active>
+      </EcomDev_PHPUnitTest>
+   </modules>
+</config>

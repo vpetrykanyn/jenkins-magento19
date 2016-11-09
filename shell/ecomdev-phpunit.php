@@ -1,0 +1,1 @@
+../.modman/EcomDev_PHPUnit/shell/ecomdev-phpunit.php
